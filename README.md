@@ -15,4 +15,4 @@ This project is developed using MySQL to enhance the management of bike store op
 # II. System Design Analysis
 
 This management system project is developed on a database named `Bike Store` containing nine tables: `customers`, `staffs`, `orders`, `order_items`, `stores`, `products`, `categories`, `brands`, `stocks`. The two columns `total_amount` in `orders` table and `loyalty_point` in `customers` table are added in some specific trigger modules, so it will not appear in creating table and other stored procedures modules. These tables and their structures are given below.
-(https://github.com/Bachhhhhhhh/Bike-Store-Information-Management-System/blob/main/ERD.png?raw=true)
+![Sơ đồ ERD cho CSDL Cửa hàng xe đạp](https://github.com/Bachhhhhhhh/Bike-Store-Information-Management-System/blob/main/ERD.png?raw=true)
